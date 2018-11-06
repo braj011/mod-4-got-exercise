@@ -1,0 +1,19 @@
+{
+  "name": "mod-4-got-exercise",
+  "version": "1.0.0",
+  "description": "1. Make a new starter app with create-react-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braj011/mod-4-got-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braj011/mod-4-got-exercise/issues"
+  },
+  "homepage": "https://github.com/braj011/mod-4-got-exercise#readme"
+}
